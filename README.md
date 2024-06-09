@@ -110,6 +110,7 @@ This command will launch the Streamlit application in your default web browser. 
 ## Walkthrough Video
 
 For a comprehensive walkthrough, please refer to this [video tutorial](#) which covers the entire setup and usage process step-by-step.
+(uploading soon)
 
 ## Project Structure
 
