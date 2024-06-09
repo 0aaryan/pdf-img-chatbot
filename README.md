@@ -28,12 +28,12 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/0aaryan/pdf-img-chatbot/
    ```
 
 2. **Navigate to the project directory**
    ```sh
-   cd <repository_name>
+   cd pdf-img-chatbot
    ```
 
 3. **Set up a virtual environment**
