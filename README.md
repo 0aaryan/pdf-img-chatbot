@@ -14,6 +14,7 @@ The application provides a Streamlit-based user interface where users can upload
 - **Chat with PDF:** Upload a PDF document and ask questions about its content.
 - **Image Description:** Upload an image and get a detailed description of it.
 - **Local Processing:** All data processing, model inference, and vector searches are performed locally.
+![image](https://github.com/0aaryan/pdf-img-chatbot/assets/73797587/d3643cc6-08ac-47c1-9b44-8aac6f8c423e)
 
 ## Setup Instructions
 
