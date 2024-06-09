@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "pdf-img-chatbot"
+version = "0.1.0"
+description = ""
+authors = ["0aaryan <aroraryan826@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<3.13"
+streamlit = "^1.35.0"
+langchain-qdrant = "^0.1.0"
+langchain = "^0.2.1"
+langchain-community = "^0.2.1"
+unstructured = "^0.14.5"
+pdfminer-six = "^20231228"
+pillow-heif = "^0.16.0"
+opencv-python = "^4.10.0.82"
+pdf2image = "^1.17.0"
+pytesseract = "^0.3.10"
+pypdf = "^4.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
